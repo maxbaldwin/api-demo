@@ -1,0 +1,22 @@
+body {
+  h1 {
+    color: green;
+    text-align: left;
+  }
+}
+
+.search-bar {
+  width: 50%;
+  background-color: grey;
+  text-align: center;
+}
+
+#output {
+  img {
+    height: 100px;
+    width: 100px;
+    margin: 5px; 
+    display: inline-block; 
+    border-radius: 100%; 
+  }
+}
