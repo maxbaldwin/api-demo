@@ -1,0 +1,20 @@
+{
+  "name": "sass",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Max Baldwin <maxrbaldwin@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/maxbaldwin",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
